@@ -3,4 +3,7 @@ class Calculator{
 	 
 	
 	}
+	static int Penambahan(int a, int b){
+		return a + b;
+	}
 }
